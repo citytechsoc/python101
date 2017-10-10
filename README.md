@@ -22,4 +22,4 @@ There is an enormous amount of online content to learn from when it comes to lea
 [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 > A great thorough book
 
-For more useful learning material that may not be specific to Python, checkout this list [here](http://www.yosufali.com/resources). There's a lot of content available so try not to get too lost. It helps to know what you'd like to learn, since theres resources for everything from web development, iOS and App development, all the well to Virtual Reality apps, artificial intelligence and how to program self driving cars.
+For more useful learning material that may not be specific to Python, checkout this list [**here**](http://www.yosufali.com/resources). There's a lot of content available so try not to get too lost. It helps to know what you'd like to learn, since theres resources for everything from web development, iOS and App development, all the well to Virtual Reality apps, artificial intelligence and how to program self driving cars.
